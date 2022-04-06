@@ -20,3 +20,7 @@ console.log(velocidade)
 
 console.log(acelerar(90, 10))
 //100
+
+//também pode ser ignorado o retorno da função
+acelerar(100, 20)
+//O console vai retornar "Nova velocidade: 120"
